@@ -1,0 +1,72 @@
+body {
+    background-color: rgb(151, 231, 231);
+}
+
+body {
+    background-image: url('https://cdn5.vectorstock.com/i/1000x1000/45/89/construction-skyline-scene-blue-background-vector-9954589.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+li {
+    display: inline;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 50px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: rgb(82, 95, 95);
+}
+
+
+/* li a {
+    background-color: #2ebd88;
+} */
+
+li {
+    border-right: 1px solid #bbb;
+}
+
+ul {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+p {
+    background-image: url(https://hccindia.com/uploads//history/0_53201600_1552650999_2018_Bogibeel.jpg);
+}
+
+img {
+    border-radius: 10px;
+}
+
+img {
+    display: block;
+    margin-left: ;
+    margin-right: ;
+}
+
+sectioni {
+    display: block;
+    margin-left: auto;
+    margin-right: ;
+}
